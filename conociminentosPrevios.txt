@@ -1,2 +1,3 @@
 conocimiento 1: HTML y CSS
 conocimiento 2: Angular
+conocimiento 3: Java y JS
